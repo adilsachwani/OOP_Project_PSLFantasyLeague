@@ -1,0 +1,38 @@
+1 Batsman C.Gayle Karachi-Kings 263 12
+2 Batsman T.Iqbal Peshawar-Zalmi 361 7
+3 Batsman B.Mccullum Lahore-Qalandars 97 11
+4 Batsman B.Azam Karachi-Kings 306 7
+5 Batsman M.Ul-Haq Islamabad-United 334 9
+6 Batsman K.Peterson Quetta-Gladiators 458 11
+
+1 WK B.Haddin Islamabad-United 19 10
+2 WK K.Akmal Peshawar-Zalmi 26 9
+3 WK S.Ahmed Quetta-Gladiators 16 9
+4 WK M.Rizwan Lahore-Qalandars 20 8
+5 WK K.Sangakara Karachi-Kings 9 11
+
+1 All-Rounder S.Watson Islamabad-United 364 12
+2 All-Rounder G.Elliot Lahore-Qalandars 139 9
+3 All-Rounder I.Wasim Karachi-Kings 131 10
+4 All-Rounder S.Afridi Peshawar-Zalmi 264 12
+5 All-Rounder D.Sammy Peshawar-Zalmi 261 10
+6 All-Rounder M.Nawaz Quetta-Gladiators 140 8
+
+1 Bowler M.Amir Karachi-Kings 17 11
+2 Bowler W.Riaz Peshawar-Zalmi 25 8
+3 Bowler S.Khan Karachi-Kings 20 7
+4 Bowler M.Sami Islamabad-United 25 10
+5 Bowler S.Narine Lahore-Qalandars 10 12
+6 Bowler Z.Babar Quetta-Gladiators 15 10
+
+
+
+
+
+
+
+
+
+
+
+

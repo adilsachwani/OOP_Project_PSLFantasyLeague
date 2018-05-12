@@ -1,0 +1,36 @@
+Misbah Islamabad-United Batsman 16 334 0
+Sami Islamabad-United Bowler 16 22 25
+Watson Islamabad-United All-Rounder 15 364 11
+Smith Islamabad-United All-Rounder 14 428 11
+Haddin Islamabad-United Wicket-Keeper 17 327 0
+Tamim Peshawar-Zalmi Batsman 11 361 0
+Wahab Peshawar-Zalmi Bowler 16 22 25
+Afridi Peshawar-Zalmi All-Rounder 15 264 12
+Sammy Peshawar-Zalmi All-Rounder 16 261 6
+Kamran Peshawar-Zalmi Wicket-Keeper 20 504 0
+Peterson Quetta-Gladiators Batsman 17 458 0
+Zulfiqar Quetta-Gladiators Bowler 18 23 15
+Nawaz Quetta-Gladiators All-Rounder 13 140 23
+Luke Quetta-Gladiators All-Rounder 7 181 0
+Sarfaraz Quetta-Gladiators Wicket-Keeper 18 351 0
+Gayle Karachi-Kings Batsman 14 263 0
+Amir Karachi-Kings Bowler 17 30 17
+Malik Karachi-Kings All-Rounder 19 359 4
+Imad Karachi-Kings All-Rounder 15 131 12
+Sangakara Karachi-Kings Wicket-Keeper 14 344 0
+Mccullum Lahore-Qalandars Batsman 7 97 0
+Yasir Lahore-Qalandars Bowler 8 9 23
+Elliot Lahore-Qalandars All-Rounder 12 139 15
+Delport Lahore-Qalandars All-Rounder 11 309 5
+Rizwan Lahore-Qalandars Wicket-Keeper 12 233 0
+
+
+
+
+
+
+
+
+
+
+
